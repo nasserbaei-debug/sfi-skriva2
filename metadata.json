@@ -1,0 +1,5 @@
+{
+  "name": "SFI Skriva",
+  "description": "An educational tool to generate tailored Swedish texts for SFI (Swedish for Immigrants) levels B, C, and D based on any topic.",
+  "requestFramePermissions": []
+}
